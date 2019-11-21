@@ -1,6 +1,6 @@
-package com.fox.studio.jointtest.presenter
+package com.fox.studio.kointest.presenter
 
-import com.fox.studio.jointtest.repository.HelloRepository
+import com.fox.studio.kointest.repository.HelloRepository
 
 /*класс презентатора для использования данных: HelloRepository*/
 class MyPresenter(val repo: HelloRepository) {

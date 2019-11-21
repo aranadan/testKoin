@@ -1,8 +1,8 @@
-package com.fox.studio.jointtest
+package com.fox.studio.kointest
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.fox.studio.jointtest.presenter.MyPresenter
+import com.fox.studio.kointest.presenter.MyPresenter
 import kotlinx.android.synthetic.main.activity_main.*
 import org.koin.android.ext.android.inject
 

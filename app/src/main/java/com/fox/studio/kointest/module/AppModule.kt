@@ -1,8 +1,8 @@
-package com.fox.studio.jointtest.module
+package com.fox.studio.kointest.module
 
-import com.fox.studio.jointtest.presenter.MyPresenter
-import com.fox.studio.jointtest.repository.HelloRepository
-import com.fox.studio.jointtest.repository.HelloRepositoryImpl
+import com.fox.studio.kointest.presenter.MyPresenter
+import com.fox.studio.kointest.repository.HelloRepository
+import com.fox.studio.kointest.repository.HelloRepositoryImpl
 import org.koin.dsl.module
 
 val appModule = module {

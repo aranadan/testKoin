@@ -1,4 +1,4 @@
-package com.fox.studio.jointtest.repository
+package com.fox.studio.kointest.repository
 
 /*HelloRepository для предоставления некоторых данных:*/
 
